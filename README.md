@@ -6,10 +6,11 @@
 
 ### 예제 목록
 
-| 예제 폴더 | 설명 |
-| -------- | ---- |
+| 예제 폴더 | 설명                                                         |
+| -------- |------------------------------------------------------------|
 | [01_using_different_models](https://github.com/lee-lou2/swarm/tree/main/01_using_different_models) | OpenAI 모델 외에도 Groq, Ollama와 같은 외부 모델과 Swarm을 사용하는 방법을 다룹니다. |
-| [02_basic_examples](https://github.com/lee-lou2/swarm/tree/main/02_basic_examples) | Swarm의 기본적인 사용법을 설명합니다. |
+| [02_basic_examples](https://github.com/lee-lou2/swarm/tree/main/02_basic_examples) | Swarm의 기본적인 사용법을 설명합니다.                                    |
+| [03_tool_calling](https://github.com/lee-lou2/swarm/tree/main/03_tool_calling) | 도구를 사용하는 방식들에 대해 알아보고 간단한 예시 코드가 포함되어있습니다.                 |
 
 ### Swarm 소개
 
